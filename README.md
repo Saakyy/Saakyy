@@ -1,10 +1,6 @@
-# Oi, eu sou a Kase 👋
-
 <p align="center">
-  <img src="https://saakyy.github.io/portfolio/img/kase-gamer.gif" alt="Pixel art de uma garota de cabelo vermelho jogando videogame" width="420">
+  <img src="https://saakyy.github.io/portfolio/img/header-kase.gif" alt="Oi! Eu sou a Kase. Desenvolvimento de software com foco em sistemas web, automações e integrações. Transformo processos manuais em ferramentas que funcionam sozinhas." width="100%">
 </p>
-
-Desenvolvimento de software com foco em **sistemas web, automações e integrações**. Transformo processos manuais em ferramentas que funcionam sozinhas.
 
 ## O que eu uso
 
