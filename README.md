@@ -1,5 +1,9 @@
 # Oi, eu sou a Kase 👋
 
+<p align="center">
+  <img src="https://saakyy.github.io/portfolio/img/kase-gamer.gif" alt="Pixel art de uma garota de cabelo vermelho jogando videogame" width="420">
+</p>
+
 Desenvolvimento de software com foco em **sistemas web, automações e integrações**. Transformo processos manuais em ferramentas que funcionam sozinhas.
 
 ## O que eu uso
