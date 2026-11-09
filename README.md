@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://saakyy.github.io/portfolio/img/header-kase.gif" alt="Oi! Eu sou a Kase. Desenvolvimento de software com foco em sistemas web, automações e integrações. Transformo processos manuais em ferramentas que funcionam sozinhas." width="100%">
+  <img src="https://saakyy.github.io/portfolio/img/header-kase.gif?v=2" alt="Oi! Eu sou a Kase. Desenvolvimento de software com foco em sistemas web, automações e integrações. Transformo processos manuais em ferramentas que funcionam sozinhas." width="100%">
 </p>
 
 ## O que eu uso
